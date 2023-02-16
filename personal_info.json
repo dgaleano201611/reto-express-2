@@ -1,0 +1,38 @@
+{
+  "name": "Camilo Gil",
+  "age": 28,
+  "email": "camilogilfranco@gmail.com",
+  "phone": "3202800679",
+  "address": "123 Main ST",
+  "city": "Bogotá",
+  "headLine": "student",
+  "links": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/adrian-camilo-gil-franco/"
+    },
+    {
+      "name": "GitHub",
+      "url": "https://github.com/CamiloGilFranco"
+    }
+  ],
+  "website": "",
+  "skills": [
+    {
+      "name": "JavaScript",
+      "level": "Basic"
+    },
+    {
+      "name": "React",
+      "level": "Basic"
+    },
+    {
+      "name": "Node.js",
+      "level": "Basic"
+    },
+    {
+      "name": "HTML",
+      "level": "Basic"
+    }
+  ]
+}
